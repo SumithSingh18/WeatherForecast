@@ -1,14 +1,13 @@
 ## About ME
-I am a Student of Verzeo's Web Development course of the April Batch-2021
-My name is Sumith Singh.
+My name is Sumith Singh, I am a Trainee of Verzeo's Web Development Internship of the April Batch-2021.
 id: ss.sumi1804@gmail.com
 
 i had so much to learn from Ahmad sir during this last 2-3 months
-i am really happy to drop my project.
+I am really happy to drop my final project.
 
 ## Introduction
  Hey Team Verzeo, very happy to upload my Project on Weather Forecast Web App. 
- I have taken the help of Markup language HTML, used CSS and Bootstrap v.5 for styling and Vanilla JavaScript for scripting the entire thing
+ I have taken the help of Markup language HTML, used CSS and JavaScript, jQuery, and the OpenWeather API for scripting the entire thing
 
 ## About The Project
 
@@ -16,9 +15,7 @@ This is Weather Forecast App using JavaScript. This Application shows you the we
 
 you will have to type the name of the city of which you want the weather for, then click on the search option inorder to get the forecast
 
-my application shows alot of character
-it mentions the current Temperature, Humidity, Wind Speed and UV Index
-with images of the weather
+my application shows a lot of character, it mentions the current Temperature, Humidity, Wind Speed and UV Index with images of the weather
 
 
 ![](image/screenshoot.PNG)
